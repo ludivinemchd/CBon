@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Ludivine\Desktop\candidature bac +5\entretien\gestion repas\.metadata\.plugins\org.eclipse.jdt.core
+2373500367.index
+3225062861.index
+1865797976.index
